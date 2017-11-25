@@ -6,3 +6,4 @@ master alter
 feature alter
 >>>>>>> feature
  -no -ff
+fast forward
