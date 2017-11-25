@@ -1,3 +1,7 @@
 git push origin maste
 oppr
+<<<<<<< HEAD
 master alter
+=======
+feature alter
+>>>>>>> feature
